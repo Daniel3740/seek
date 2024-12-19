@@ -20,7 +20,7 @@ Antes de comenzar, asegúrate de tener instalado:
 
 ```bash
 git clone https://github.com/Daniel3740/seek.git
-cd nombre-del-repo
+cd seek
 ```
 
 ### 2. Instalar dependencias
@@ -108,4 +108,4 @@ Usamos [SemVer](http://semver.org/) para el versionamiento. Para ver las version
 
 ## Licencia 📄
 
-Este proyecto está bajo la Licencia MIT - mira el archivo [LICENSE.md](LICENSE.md) para detalles
+Este proyecto está bajo la Licencia MIT - mira el archivo [https://github.com/Daniel3740/seek/blob/main/LICENSE](LICENSE.md) para detalles
